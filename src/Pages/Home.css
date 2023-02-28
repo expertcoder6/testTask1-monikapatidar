@@ -1,0 +1,25 @@
+.data-card.MuiCard-root {
+    background-color: rgb(129, 232, 232);
+    margin: 10px;
+    padding: 20px;
+    background: #f3f3f3;
+    border: 1px solid #eee;
+    border-radius: 10px;
+}   
+.data-card .MuiCardContent-root{
+    padding: 0;
+    text-align: left;
+}
+.data-card .MuiTypography-body2{
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.loader{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+.data-card .MuiCheckbox-root{
+    padding: 0;
+}
